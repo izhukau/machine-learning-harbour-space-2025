@@ -1,0 +1,1 @@
+* Home assignment on overfitting (and fixing) the model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/26s_harbour/homeworks/hw005_fmnist/hw_fmnist_overfitting.ipynb)
